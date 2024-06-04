@@ -3,7 +3,7 @@ Dashboard Link - Customer Relationship Management
 1)Oppurtunity Dashboard
 2)Lead Dashboard
 
-https://app.powerbi.com/links/sJltNJaFRY?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
+https://app.powerbi.com/groups/me/reports/129499e1-0aa0-4c21-9342-d5812a278c57?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
 
 ## Problem Statement
