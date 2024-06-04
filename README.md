@@ -1,4 +1,9 @@
 # CRM - Lead and Opportinity Dashboard
+Dashboard Link - Customer Relationship Management
+1)Oppurtunity Dashboard
+2)Lead Dashboard
+
+https://app.powerbi.com/links/sJltNJaFRY?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
 
 ## Problem Statement
